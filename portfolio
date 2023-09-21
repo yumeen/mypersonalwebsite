@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Personal Website</title>
+    
+    <!--styles for all pages-->
+    <link rel="stylesheet" href="site.css">
+    <!--style for this current page-->
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <header>
+        <span class="name">Yumin Kim</span>
+        <nav class="links">
+            <a href="/">HOME</a>
+            <a href="/about">ABOUT</a>
+            <a class="active" href="/portfolio">PORTFOLIO</a>
+        </nav>
+    </header>
+    <main>
+      <h1>
+        Things I've built~!
+      </h1>
+      <section class="project 1">
+        <h2 class="project1-name">The First Project</h2>
+        <img src="https://www.imaginarycloud.com/blog/content/images/size/w754/2019/02/Pong.jpg" alt="pong">
+        <p>
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Modi at earum fuga harum alias nobis, eaque optio laudantium dolor sed eligendi consequatur distinctio aperiam accusantium, architecto exercitationem perferendis minus error.
+        </p>
+        <p>
+            Fuga dolore impedit suscipit, vero odit, sequi in deleniti, odio ipsa facere et. Consequatur modi cum ullam adipisci unde amet qui sed odio officia ipsa omnis earum quibusdam, dolor totam?
+        </p>
+      </section>
+      
+      <section></section>
+      <section></section>
+    </main>
+    <footer>
+        <a href="https://facebook.com" target="_blank"></a>
+        <a href="https://linkedin.com" target="_blank"></a>
+        <a href="https://twitter.com" target="_blank"></a>
+    </footer>
+</body>
+</html>
